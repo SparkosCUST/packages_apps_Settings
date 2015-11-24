@@ -558,4 +558,8 @@
     <string name="dashboard_random5">Hi User!</string>
     <string name="dashboard_random6">What\'s up?</string>
     
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Reset stats</string>
+    <string name="battery_stats_message">Battery history stats are going to be reset</string>
+    
 </resources>
