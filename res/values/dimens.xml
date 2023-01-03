@@ -132,8 +132,8 @@
 
     <!-- Avatar -->
     <dimen name="avatar_length">48dp</dimen>
-    <dimen name="avatar_margin_top">56dp</dimen>
-    <dimen name="avatar_margin_end">24dp</dimen>
+    <dimen name="avatar_margin_top">30dp</dimen>
+    <dimen name="avatar_margin_end">8dp</dimen>
     <dimen name="multiple_users_avatar_size">20dp</dimen>
     <dimen name="multiple_users_user_icon_size">40dp</dimen>
 
@@ -524,8 +524,8 @@
     <dimen name="card_margin_start">16.0dp</dimen>
     <dimen name="card_margin_end">16.0dp</dimen>
     <dimen name="card_padding_end">70.0dp</dimen>
-    <dimen name="card_height">75.0dp</dimen>
-    <dimen name="card_radius">8.0dp</dimen>
+    <dimen name="card_height">66.0dp</dimen>
+    <dimen name="card_radius">34dp</dimen>
     <dimen name="dashboard_icon_size">40dp</dimen>
     
     <!-- Card Layout OOS 12-->
